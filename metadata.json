@@ -1,0 +1,5 @@
+{
+  "name": "Pearl Dental Clinic | Best Dentist in Indore",
+  "description": "Premium, modern dental care by Dr. Rishika Jain (BDS Dental Surgeon) in Indore. Specializing in painless treatments, root canals, and cosmetic dentistry.",
+  "requestFramePermissions": ["geolocation"]
+}
